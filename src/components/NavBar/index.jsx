@@ -7,7 +7,7 @@ export const NavBar = () => {
         <header className={stylle.header}>
             <div className="container">
                 <div className={stylle.header__inner}>
-                    <div className="logo">Logo</div>
+                    <div className="logo">APACHE</div>
                     <nav>
                         <ul>
                             <li><NavLink to='/'>Home</NavLink></li>
